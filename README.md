@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Vitor Hugo CHagas Maciel
+Matricula: 1579155
 
 ## Tela de inspeção com navegador
+![Captura de tela 2025-02-13 163729-1](https://github.com/user-attachments/assets/7150799c-dd0f-4b09-bd55-ca54fdb68e9d)
 
 
 ## Tela de projeto no Replit
 
+![Captura de tela 2025-02-13 164300-2](https://github.com/user-attachments/assets/32e36084-e527-4cae-b037-6c8477171568)
